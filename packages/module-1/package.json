@@ -1,0 +1,18 @@
+{
+  "name": "module-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@auto/img-crop": "^2.3.0",
+    "lazyload": "^2.0.0-rc.2",
+    "swiper": "^4.5.0",
+    "zepto": "^1.2.0"
+  }
+}
