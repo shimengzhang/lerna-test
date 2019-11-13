@@ -1,6 +1,6 @@
 {
   "name": "shimengzhang-module-1",
-  "version": "1.0.6",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@auto/img-crop": "^2.3.0",
-    "@shimengzhang/module-3": "^1.0.0",
+    "@shimengzhang/module-3": "^1.1.0",
     "lazyload": "^2.0.0-rc.2",
     "swiper": "^4.5.0",
     "zepto": "^1.2.0"
