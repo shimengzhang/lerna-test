@@ -1,3 +1,4 @@
 module-1
 改为 shimengzhang-module-1
-影响到 moudule-2 ？
+影响到 moudule-2 
+修改本地依赖为线上依赖 

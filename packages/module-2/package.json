@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "module-1": "file:../module-1",
+    "shimengzhang-module-1": "^1.0.4",
     "zepto": "^1.2.0"
   }
 }
