@@ -11,9 +11,13 @@
   "license": "ISC",
   "dependencies": {
     "@auto/img-crop": "^2.3.0",
+    "@shimengzhang/module-3": "^1.0.0",
     "lazyload": "^2.0.0-rc.2",
     "swiper": "^4.5.0",
     "zepto": "^1.2.0"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "gitHead": "00c307d6f99a2ee9549584f87a0bb8273e816277"
 }
